@@ -1,8 +1,8 @@
-Hamburger Projesi
+# Hamburger Projesi
 
 Bu, bir hamburger restoranını yönetmek için yapılmış bir Windows Forms uygulamasıdır. Uygulama, kullanıcıların menü oluşturmasına, sipariş eklemesine ve tüm siparişleri detaylı istatistiklerle görüntülemesine olanak tanır.
 
-Özellikler
+# Özellikler
 
 1.Menü Yönetimi: Menü öğeleri ekleyin, isim ve fiyat belirleyin.
 
@@ -10,7 +10,7 @@ Bu, bir hamburger restoranını yönetmek için yapılmış bir Windows Forms uy
 
 3.Sipariş Görünümü: Tüm siparişleri görüntüleyin ve toplam gelir, toplam sipariş, ekstra malzeme geliri ve satılan toplam ürün sayısı gibi özet istatistikleri görün.
 
-Ekranlar
+# Ekranlar
 
 1-Menü Ekleme Ekranı:
 
@@ -30,7 +30,7 @@ Ekranlar
 
 .Tüm siparişleri ve özet istatistikleri görüntüleyin.
 
-Kullanılan Teknolojiler:
+# Kullanılan Teknolojiler:
 
 C#: Uygulamanın ana programlama dili.
 
@@ -41,7 +41,7 @@ Visual Studio: Geliştirme ortamı olarak kullanılmıştır.
 Git: Kaynak kodu yönetimi ve sürüm kontrolü için.
 
 
-Nasıl Çalıştırılır
+# Nasıl Çalıştırılır
 
 Çözüm dosyasını (HamburgerProject.sln) Visual Studio'da açın.
 
@@ -50,7 +50,7 @@ Gerekli paketleri ve bağımlılıkları geri yüklemek için çözümü oluştu
 Uygulamayı çalıştırın.
 
 
-Kod Genel Bakış
+# Kod Genel Bakış
 
 MenuEklemeEkrani
 
