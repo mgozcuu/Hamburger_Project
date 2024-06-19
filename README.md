@@ -74,6 +74,6 @@ Bu form, tüm siparişleri ve toplam gelir, ekstra malzeme geliri, toplam sipari
 
 ![](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_ekstramalzemeekle.png)
 
-
+![](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_totalfiyat.png)
 
 
