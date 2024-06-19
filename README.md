@@ -12,19 +12,26 @@ Bu proje, bir hamburger restoranını yönetmek için yapılmış bir Windows Fo
 
 ## Ekranlar
 
-### 1. Menü Ekleme Ekranı
-
-Yeni menü öğeleri ekleyin.
-
-![Menü Ekleme Ekranı](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_menuekle.png)
-
-### 2. Sipariş Oluştur Ekranı
+### 1. Sipariş Oluştur Ekranı
 
 Menü öğelerini ve ekstra malzemeleri seçin.
 
 ![Sipariş Oluştur Ekranı](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_siparisolustur.png)
 
-### 3. Tüm Siparişler Ekranı
+### 2. Menü Ekleme Ekranı
+
+Yeni menü öğeleri ekleyin.
+
+![Menü Ekleme Ekranı](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_menuekle.png)
+
+### 3. Ekstra Mlazeme Ekleme Ekranı
+
+Yeni ekstra malzeme öğeleri ekleyin.
+
+![Ekstra Malzeme Ekleme](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_ekstramalzemeekle.png)
+
+
+### 4. Tüm Siparişler Ekranı
 
 Tüm siparişleri ve özet istatistikleri görüntüleyin.
 
@@ -45,14 +52,5 @@ Tüm siparişleri ve özet istatistikleri görüntüleyin.
 2. Gerekli paketleri ve bağımlılıkları geri yüklemek için çözümü oluşturun.
 3. Uygulamayı çalıştırın.
 
-## Ekran Görüntüleri
 
-![Sipariş Oluşturma](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_siparisolustur.png)
-
-![Menü](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_menu.png)
-
-![Menü Ekle](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_menuekle.png)
-
-![Ekstra Malzeme Ekleme](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_ekstramalzemeekle.png)
-
-![Total Bilgiler](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_totalfiyat.png) 
+ 
