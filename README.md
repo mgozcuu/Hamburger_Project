@@ -30,6 +30,8 @@ Tüm siparişleri ve özet istatistikleri görüntüleyin.
 
 ![Tüm Siparişler Ekranı](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_totalfiyat.png)
 
+
+
 ## Kullanılan Teknolojiler
 
 - **C#**: Uygulamanın ana programlama dili.
