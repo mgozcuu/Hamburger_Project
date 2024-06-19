@@ -67,4 +67,6 @@ TumSiparislerEkrani
 Bu form, tüm siparişleri ve toplam gelir, ekstra malzeme geliri, toplam sipariş ve satılan toplam ürün sayısı gibi özet istatistikleri görüntüler.
 
 ![](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_siparisolustur.png)
+![](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_menu.png)
+
 
