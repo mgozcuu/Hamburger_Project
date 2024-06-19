@@ -1,79 +1,56 @@
 # Hamburger Projesi
 
-Bu, bir hamburger restoranını yönetmek için yapılmış bir Windows Forms uygulamasıdır. Uygulama, kullanıcıların menü oluşturmasına, sipariş eklemesine ve tüm siparişleri detaylı istatistiklerle görüntülemesine olanak tanır.
+Bu proje, bir hamburger restoranını yönetmek için yapılmış bir Windows Forms uygulamasıdır. Uygulama, kullanıcıların menü oluşturmasına, sipariş eklemesine ve tüm siparişleri detaylı istatistiklerle görüntülemesine olanak tanır.
 
-# Özellikler
+## Özellikler
 
-1.Menü Yönetimi: Menü öğeleri ekleyin, isim ve fiyat belirleyin.
+1. **Menü Yönetimi**: Menü öğeleri ekleyin, isim ve fiyat belirleyin.
+   
+2. **Sipariş Oluşturma**: Menüleri seçin, ekstra malzemeleri ekleyin, miktarı belirleyin ve toplam fiyatı hesaplayın.
+   
+3. **Sipariş Görünümü**: Tüm siparişleri görüntüleyin ve toplam gelir, toplam sipariş, ekstra malzeme geliri ve satılan toplam ürün sayısı gibi özet istatistikleri görün.
 
-2.Sipariş Oluşturma: Menüleri seçin, ekstra malzemeleri ekleyin, miktarı belirleyin ve toplam fiyatı hesaplayın.
+## Ekranlar
 
-3.Sipariş Görünümü: Tüm siparişleri görüntüleyin ve toplam gelir, toplam sipariş, ekstra malzeme geliri ve satılan toplam ürün sayısı gibi özet istatistikleri görün.
+### 1. Menü Ekleme Ekranı
 
-# Ekranlar
+Yeni menü öğeleri ekleyin.
 
-1-Menü Ekleme Ekranı:
+![Menü Ekleme Ekranı](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_menuekle.png)
 
-.Yeni menü öğeleri ekleyin.
+### 2. Sipariş Oluştur Ekranı
 
-.Alanlar: Menü Adı, Fiyat
+Menü öğelerini ve ekstra malzemeleri seçin.
 
-2-Sipariş Oluştur Ekranı:
+![Sipariş Oluştur Ekranı](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_siparisolustur.png)
 
-.Menü öğelerini ve ekstra malzemeleri seçin.
+### 3. Tüm Siparişler Ekranı
 
-.Miktarı belirleyin ve toplam fiyatı görün.
+Tüm siparişleri ve özet istatistikleri görüntüleyin.
 
-.Siparişi listeye ekleyin.
+![Tüm Siparişler Ekranı](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_totalfiyat.png)
 
-3-Tüm Siparişler Ekranı:
+## Kullanılan Teknolojiler
 
-.Tüm siparişleri ve özet istatistikleri görüntüleyin.
+- **C#**: Uygulamanın ana programlama dili.
+- **Windows Forms**: Kullanıcı arayüzlerini oluşturmak için kullanılmıştır.
+- **Visual Studio**: Geliştirme ortamı olarak kullanılmıştır.
+- **Git**: Kaynak kodu yönetimi ve sürüm kontrolü için kullanılmıştır.
 
-# Kullanılan Teknolojiler:
+## Nasıl Çalıştırılır
 
-C#: Uygulamanın ana programlama dili.
+1. Çözüm dosyasını (HamburgerProject.sln) Visual Studio'da açın.
+2. Gerekli paketleri ve bağımlılıkları geri yüklemek için çözümü oluşturun.
+3. Uygulamayı çalıştırın.
 
-Windows Forms: Kullanıcı arayüzlerini oluşturmak için.
+## Ekran Görüntüleri
 
-Visual Studio: Geliştirme ortamı olarak kullanılmıştır.
+![Sipariş Oluşturma](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_siparisolustur.png)
 
-Git: Kaynak kodu yönetimi ve sürüm kontrolü için.
+![Menü](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_menu.png)
 
+![Menü Ekle](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_menuekle.png)
 
-# Nasıl Çalıştırılır
+![Ekstra Malzeme Ekleme](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_ekstramalzemeekle.png)
 
-Çözüm dosyasını (HamburgerProject.sln) Visual Studio'da açın.
-
-Gerekli paketleri ve bağımlılıkları geri yüklemek için çözümü oluşturun.
-
-Uygulamayı çalıştırın.
-
-
-# Kod Genel Bakış
-
-MenuEklemeEkrani
-
-Bu form, kullanıcıların yeni menüler eklemesine olanak tanır. Menü adı ve fiyatı için alanlar ve yeni menüyü göndermek için bir buton içerir.
-
-
-SiparisOlusturEkrani
-
-Bu form, kullanıcıların yeni siparişler oluşturmasına olanak tanır. Menü, ekstra malzemeler, boyut ve miktar seçenekleri içerir. Toplam fiyat hesaplanır ve sipariş listeye eklenir.
-
-
-TumSiparislerEkrani
-
-Bu form, tüm siparişleri ve toplam gelir, ekstra malzeme geliri, toplam sipariş ve satılan toplam ürün sayısı gibi özet istatistikleri görüntüler.
-
-![](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_siparisolustur.png)
-
-![](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_menu.png)
-
-![](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_menuekle.png)
-
-![](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_ekstramalzemeekle.png)
-
-![](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_totalfiyat.png)
-
-
+![Total Bilgiler](https://github.com/mihrapgozcu/Hamburger_Project/blob/master/burger_totalfiyat.png) 
